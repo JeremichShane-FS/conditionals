@@ -4,6 +4,15 @@ You can find the deployed project at [Conditionals](https://jeremichshane-fs.git
 
 ## Overview
 
+> **The Challenge**
+
+Successful completion of this activity will show that you can do the following:
+
+- Select HTML elements based on classes & ids.
+- Change the text and properties of HTML elements.
+- Employ buttons to give the user interactivity.
+- Utilize String Interpolation to include variables inside of strings.
+
 ### **Problem #1** – Grade Letter Calculator
 
 In this problem, you will be prompting the user for the number grade and giving them the equivalent letter grade.
